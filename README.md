@@ -1,3 +1,3 @@
 Hello World!
 Added more text
-![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/<RafCas88>/<sem>/actions/workflows/main.yml/badge.svg)
